@@ -18,7 +18,7 @@
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^5.4.19",
     "mongoose-unique-validation": "^0.1.0",
-    "socket.io": "^2.3.0",
+    "socket.io": "^2.4.0",
     "sports-live": "^1.0.1",
     "unirest": "^0.6.0"
   },
